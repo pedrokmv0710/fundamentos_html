@@ -1,0 +1,20 @@
+/* selector por tag */
+h2 {
+    color: blue;
+}
+
+/* cambiar el color de una etiqueta p dentro de una etiqueta article */
+ 
+article p {
+    color: green;
+}
+
+/* selector por clases */
+.subtitulo{
+    color: red;
+}
+
+/* selector por id */
+#subtitulo2{
+    color: orange;
+}
